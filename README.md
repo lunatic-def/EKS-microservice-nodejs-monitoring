@@ -1,4 +1,4 @@
-## All infromation about this workshop is in this Medium link, Thank you for reading ! :))
+## All information about this workshop is in this Medium link, Thank you for reading ! :))
 
 EKS infrastructure guide:
 
